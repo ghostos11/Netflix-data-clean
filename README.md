@@ -41,3 +41,5 @@ or open it directly in VS Code / JupyterLab and run all cells. The cleaned file 
 
 - `director`, `cast`, and `country` can hold multiple values per row, separated by commas (e.g. `"United States, Canada"`), and are left that way rather than split into separate rows or columns.
 - `listed_in` (genre) is left untouched — it also holds multiple comma-separated categories per row.
+
+https://roadmap.sh/projects/cleaning-netflix-dataset
