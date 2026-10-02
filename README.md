@@ -44,6 +44,5 @@ or open it directly in VS Code / JupyterLab and run all cells. The cleaned file 
 
 ## Dashboard
 
-![Uploading Screenshot 2026-10-02 071204.png…]()
 
 https://roadmap.sh/projects/cleaning-netflix-dataset
